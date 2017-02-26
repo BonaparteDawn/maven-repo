@@ -427,14 +427,14 @@
                         </execution>
                     </executions>
                 </plugin>
-                <!--<plugin>-->
-                    <!--<groupId>org.apache.maven.plugins</groupId>-->
-                    <!--<artifactId>maven-surefire-plugin</artifactId>-->
-                    <!--<version>2.10</version>-->
-                    <!--<configuration>-->
-                        <!--<skip>true</skip>-->
-                    <!--</configuration>-->
-                <!--</plugin>-->
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-surefire-plugin</artifactId>
+                    <version>2.10</version>
+                    <configuration>
+                        <skip>true</skip>
+                    </configuration>
+                </plugin>
             </plugins>
         </pluginManagement>
         <!--===================================使用指定插件START-->
@@ -468,10 +468,10 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
             </plugin>
-            <!--<plugin>-->
-                <!--<groupId>org.apache.maven.plugins</groupId>-->
-                <!--<artifactId>maven-surefire-plugin</artifactId>-->
-            <!--</plugin>-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+            </plugin>
             <!--===========================不变部分END-->
             <!--===========================根据具体情况使用插件部分START-->
             <!--1、发布到maven私服的插件-->
