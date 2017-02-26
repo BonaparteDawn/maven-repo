@@ -34,7 +34,7 @@
         <sonatype.nexus.server.bonaparte.dawn.server.snapshot.repository.id>snapshots</sonatype.nexus.server.bonaparte.dawn.server.snapshot.repository.id><!-- nexus server corresponds to entry in ~/.m2/settings.xml -->
         <sonatype.nexus.server.bonaparte.dawn.server.snapshots.address>http://localhost:8081/nexus/content/repositories/snapshots</sonatype.nexus.server.bonaparte.dawn.server.snapshots.address>
         <!--github私服发布配置-->
-        <github.global.server.repository.id>github</github.global.server.repository.id><!-- github server corresponds to entry in ~/.m2/settings.xml -->
+        <github.global.server>github</github.global.server><!-- github server corresponds to entry in ~/.m2/settings.xml -->
         <github.owner.name>BonaparteDawn</github.owner.name>
         <github.repository.name>maven-repo</github.repository.name>
         <github.branch>master</github.branch>
@@ -263,7 +263,7 @@
             <uniqueVersion>true</uniqueVersion>
         </snapshotRepository>
         <repository>
-            <id>releases</id>
+            <id>github-releases</id>
             <name>Release Repository</name>
             <url>file://${project.build.directory}/mvn-repo/releases</url>
         </repository>
@@ -416,8 +416,6 @@
                         <repositoryName>${github.repository.name}</repositoryName>
                         <!-- github username  -->
                         <repositoryOwner>${github.owner.name}</repositoryOwner>
-                        <userName>BonaparteDawn</userName>
-                        <password>15a4297b1118d8c8111ce08d587f0c9d549baa94</password>
                     </configuration>
                     <executions>
                         <!-- run site-maven-plugin's 'site' target as part of the build's normal 'deploy' phase -->
