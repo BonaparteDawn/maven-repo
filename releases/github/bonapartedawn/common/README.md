@@ -22,3 +22,7 @@
 提供文件处理工具类、系统环境工具类、网络处理类、json处理工具类、二维码工具类、音乐工具类、pdf工具类、io工具类、字节工具类等等
 </li>
 </ul>
+
+<script type="text/javascript">
+  alert("你好");
+</script>
