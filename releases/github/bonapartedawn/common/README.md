@@ -23,6 +23,6 @@
 </li>
 </ul>
 
-<script type="text/javascript">
-  alert("你好");
-</script>
+```javascript
+  <a></a>
+```
