@@ -1,6 +1,4 @@
-# maven-repo
-maven仓库
-为开发者提供的一个项目快速开发仓库
+maven-repo仓库的各个模块为开发者提供了最基本的操作以便敏捷开发。
 例子：pom.xml文件中引用通用模块依赖
 <dependencies>
     <dependency><!--通用模块-->
