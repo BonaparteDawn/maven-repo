@@ -1,6 +1,5 @@
 ## maven-repo仓库的各个模块为开发者提供了最基本的操作以便敏捷开发。
-## 例子：pom.xml文件中引用通用模块依赖
-
+例子：pom.xml文件中引用通用模块依赖
 ```javascript
 <dependencies>
     <dependency><!--通用模块-->
@@ -19,7 +18,7 @@
     </repository>
 </repositories>
 ```
-## 例子：pom.xml文件中引用mybatis-plugin插件
+例子：pom.xml文件中引用mybatis-plugin插件
 ```javascript
 <!--插件仓库地址-->
 <dependencies>
@@ -86,3 +85,7 @@
 </plugins>
 </build>
 ```
+##有问题反馈
+在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
+* 邮件：bonapartedawn@163.com
+* QQ: 952851112
