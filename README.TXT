@@ -12,7 +12,7 @@ maven-repo仓库的各个模块为开发者提供了最基本的操作以便敏�
     <repository>
         <id>github.bonapartedawn</id>
         <url>
-		https://raw.githubusercontent.com/BonaparteDawn/maven-repo/master/releases
+	https://raw.githubusercontent.com/BonaparteDawn/maven-repo/master/releases
 	</url>
     </repository>
 </repositories>
@@ -21,7 +21,7 @@ maven-repo仓库的各个模块为开发者提供了最基本的操作以便敏�
     <pluginRepository>
         <id>github.bonapartedawn</id>
         <url>
-             https://raw.githubusercontent.com/BonaparteDawn/maven-repo/master/releases
+	https://raw.githubusercontent.com/BonaparteDawn/maven-repo/master/releases
         </url>
     </pluginRepository>
 </pluginRepositories>
