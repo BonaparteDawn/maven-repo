@@ -1,4 +1,3 @@
-
 maven-repo仓库的各个模块为开发者提供了最基本的操作以便敏捷开发。
 例子：pom.xml文件中引用通用模块依赖
 <dependencies>
@@ -12,14 +11,18 @@ maven-repo仓库的各个模块为开发者提供了最基本的操作以便敏�
 <repositories>
     <repository>
         <id>github.bonapartedawn</id>
-        <url>https://raw.githubusercontent.com/BonaparteDawn/maven-repo/master/releases</url>
+        <url>
+								https://raw.githubusercontent.com/BonaparteDawn/maven-repo/master/releases
+								</url>
     </repository>
 </repositories>
 <!--插件仓库地址-->
 <pluginRepositories>
     <pluginRepository>
         <id>github.bonapartedawn</id>
-        <url>https://raw.githubusercontent.com/BonaparteDawn/maven-repo/master/releases</url>
+        <url>
+        https://raw.githubusercontent.com/BonaparteDawn/maven-repo/master/releases
+        </url>
     </pluginRepository>
 </pluginRepositories>
 
