@@ -1,3 +1,25 @@
 # maven-repo
 maven仓库
 为开发者提供的一个项目快速开发仓库
+例子：pom.xml文件中引用通用模块依赖
+<dependencies>
+    <dependency><!--通用模块-->
+        <groupId>github.bonapartedawn</groupId>
+        <artifactId>common</artifactId>
+        <version>1.0.1-RELEASE</version>
+    </dependency>
+</dependencies>
+<!--仓库地址-->
+<repositories>
+    <repository>
+        <id>github.bonapartedawn</id>
+        <url>https://raw.githubusercontent.com/BonaparteDawn/maven-repo/master/releases</url>
+    </repository>
+</repositories>
+<!--插件仓库地址-->
+<pluginRepositories>
+    <pluginRepository>
+        <id>github.bonapartedawn</id>
+        <url>https://raw.githubusercontent.com/BonaparteDawn/maven-repo/master/releases</url>
+    </pluginRepository>
+</pluginRepositories>
