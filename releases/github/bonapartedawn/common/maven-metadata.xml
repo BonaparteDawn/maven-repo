@@ -3,10 +3,10 @@
   <groupId>github.bonapartedawn</groupId>
   <artifactId>common</artifactId>
   <versioning>
-    <release>1.1.0-RELEASE</release>
+    <release>1.1.2-RELEASE</release>
     <versions>
-      <version>1.1.0-RELEASE</version>
+      <version>1.1.2-RELEASE</version>
     </versions>
-    <lastUpdated>20170322122806</lastUpdated>
+    <lastUpdated>20170401142150</lastUpdated>
   </versioning>
 </metadata>
