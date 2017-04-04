@@ -2,9 +2,9 @@
 本仓库的各个模块是根据开发者的实际项目经验总结而得出的，有利于项目迅速开发。同时欢迎使用者指正bug，更加欢迎加入到我们团队。
 ## 2、源码位置
 [https://github.com/BonaparteDawn/bonapartedawn](https://github.com/BonaparteDawn/bonapartedawn)
-## 操作手册位置
+## 3、操作手册位置
 [https://github.com/BonaparteDawn/maven-repo/wiki](https://github.com/BonaparteDawn/maven-repo/wiki)
-## 3、例子
+## 4、例子
 例子：pom.xml文件中引用通用模块依赖
 ```javascript
 <dependencies>
@@ -91,7 +91,7 @@
 </plugins>
 </build>
 ```
-## 4、有问题反馈
+## 5、有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 * 邮件：bonapartedawn@163.com
 *  QQ: 952851112
