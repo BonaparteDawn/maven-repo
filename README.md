@@ -1,5 +1,5 @@
 ## 1、描述
-本仓库的各个模块是根据开发者的实际项目经验总结而得出的，有利于项目迅速开发。同时欢迎使用者指正bug，更加欢迎加入到我们团队。
+本仓库的各个模块是根据开发者的实际项目经验总结而得出的，同时也会发布一些比较好用的jar包工具类，以利于项目迅速开发。同时欢迎使用者指正bug，更加欢迎加入到我们团队。
 ## 2、源码位置
 [https://github.com/BonaparteDawn/bonapartedawn](https://github.com/BonaparteDawn/bonapartedawn)
 ## 3、操作手册位置
