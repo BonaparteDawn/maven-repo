@@ -10,7 +10,7 @@
 支持并发邮件
 </li>
 <li>
-支持多种加密方式（AES、Base64、Bcrypt、DES、DHCrypt、HmacSha256、MD5、RSA、SHA512）和证书签名
+支持多种加密方式（AES、Bcrypt、DES、DHCrypt、HmacSha256、MD5、RSA、SHA512）和证书签名
 </li>
 <li>
 提供自定义类加载器
