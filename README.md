@@ -1,5 +1,5 @@
 ## 描述
-本仓库的各个模板是根据开发者的实际项目经验总结而得出的，有利于项目迅速开发。同时欢迎使用者指正bug，更加欢迎加入到我们团队升级。
+本仓库的各个模块是根据开发者的实际项目经验总结而得出的，有利于项目迅速开发。同时欢迎使用者指正bug，更加欢迎加入到我们团队。
 ## 操作手册位置
 [https://github.com/BonaparteDawn/maven-repo/wiki](https://github.com/BonaparteDawn/maven-repo/wiki)
 ## 例子
