@@ -86,7 +86,7 @@
 </build>
 ```
 ## 操作手册位置
-	https://github.com/BonaparteDawn/maven-repo/wiki
+* [https://github.com/BonaparteDawn/maven-repo/wiki](https://github.com/BonaparteDawn/maven-repo/wiki)
 ## 有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 * 邮件：bonapartedawn@163.com
