@@ -3,10 +3,11 @@
   <groupId>github.bonapartedawn</groupId>
   <artifactId>dbDao</artifactId>
   <versioning>
-    <release>1.0.4-RELEASE</release>
+    <release>1.0.5-RELEASE</release>
     <versions>
       <version>1.0.4-RELEASE</version>
+      <version>1.0.5-RELEASE</version>
     </versions>
-    <lastUpdated>20170504063016</lastUpdated>
+    <lastUpdated>20171103075719</lastUpdated>
   </versioning>
 </metadata>
