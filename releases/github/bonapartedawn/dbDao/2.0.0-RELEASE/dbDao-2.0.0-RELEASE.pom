@@ -63,6 +63,11 @@
             <artifactId>spring-tx</artifactId>
             <version>${spring.version}</version>
         </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-orm</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
         <!--SPRING核心套件-结束-->
         <!--默认提供的数据库连接池-->
         <dependency>
